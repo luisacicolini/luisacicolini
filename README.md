@@ -1,6 +1,6 @@
 ### Hello, world!
 
-# I'm Luisa, 23yo Computer Science and Engineering Student at Politecnico di Milano
+I'm Luisa, 23yo Computer Science and Engineering Student at Politecnico di Milano
 
 
 <!--
