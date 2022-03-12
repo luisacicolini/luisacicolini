@@ -2,7 +2,7 @@
 
 ✨ I'm Luisa, 23yo Computer Science and Engineering Student at Politecnico di Milano
 
-✨ Passionate about music, arts, and anything that involves some creative process
+✨ Passionate about music, arts, and anything that involves some kind of creative process
 
 
 
