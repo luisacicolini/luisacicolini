@@ -1,8 +1,10 @@
 ### Hello, world!
+ 
+✨ Luisa, 23yo, Compilers and Formal Languages enthusiast
 
-✨ I'm Luisa, 23yo Computer Science and Engineering Student at Politecnico di Milano
+✨ Fascinated by creativity
 
-✨ Passionate about music, arts, and anything that involves some kind of creative process
+✨ In the meantime, MSc student in Computer Science and Engineering @PoliMi.
 
 
 
