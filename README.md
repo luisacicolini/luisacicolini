@@ -2,7 +2,7 @@
  
 ✨ Luisa, 24yo, Compilers and Formal Languages enthusiast
 
-✨ Sometines singer and art lover - fascinated by creativity in all its shapes
+✨ Sometimes singer and art lover - fascinated by creativity in all its shapes
 
 ✨ In the meantime, MSc student in Computer Science and Engineering @PoliMi.
 
@@ -14,9 +14,7 @@
 3. [Forced-Convection-in-Cooling-Systems-for-Electronic-Components](https://github.com/luisacicolini/Forced-Convection-in-Cooling-Systems-for-Electronic-Components): MATLAB thermodynamic model of a cooling system based on forced convection for small electronic deviced
 4. [xohw21-flow-public](https://github.com/luisacicolini/xohw21-flow-public): finalist project for Xilinx Open Hardware 2021 competition, based on the acceleration of the wavefront alignment algorithm (WFA) on FPGA
 
-### Let's meet:
-
-[linkedin](https://www.linkedin.com/in/luisacicolini/) 
+### [Let's meet!](https://www.linkedin.com/in/luisacicolini/) 
 
 
 <!--
