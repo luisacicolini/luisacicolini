@@ -4,7 +4,7 @@
 
 ✨ Sometimes singer and art lover - fascinated by creativity in all its shapes
 
-✨ In the meantime, MSc student in Computer Science and Engineering @PoliMi.
+✨ Computer Science and Engineering graduate @PoliMi.
 
 
 ### In brief:  
